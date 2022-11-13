@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# 6-raise_exception_msg.py
+# Br
+
+
 def raise_exception_msg(message=""):
-        """function that raises a name exception with a message."""
-        raise NameError(message)
+    """Raise a NameError exception with a message."""
+    raise NameError(message)
